@@ -1,0 +1,5 @@
+- Built a predictive model to forecast air quality using historical data.  
+- Performed data preprocessing, EDA, and feature engineering to enhance accuracy.  
+- Used Linear Regression for prediction and evaluated performance with MSE and R².  
+- Visualized findings using Tableau for better insights and decision-making.  
+- Technologies Used: Python, Pandas, Scikit-learn, Tableau, Linear Regression 
